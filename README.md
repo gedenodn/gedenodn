@@ -24,9 +24,9 @@ I'm a developer passionate about **C#**, **.NET**, and **JavaScript**. I'm alway
 
 ## 📈 My Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arturodenbakh&show_icons=true&count_private=true&theme=radical)](https://github.com/gedenodn)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gedenodn&show_icons=true&count_private=true&theme=radical)](https://github.com/gedenodn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturodenbakh&langs_count=8&theme=radical)](https://github.com/gedenodn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedenodn&langs_count=8&theme=radical)](https://github.com/gedenodn)
 
 ## ⚡ My Favorite Code
 
